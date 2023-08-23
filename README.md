@@ -15,8 +15,3 @@ and after that start the dev server.
 ```shell
 npm start
 ```
-
-
-[MIT](https://choosealicense.com/licenses/mit/)
-
-Happy Coding! 🚀
